@@ -1,0 +1,13 @@
+C:\Users\ajwpc\source\repos\CTG\CTG\bin\Debug\net6.0\HttpServer.dll
+C:\Users\ajwpc\source\repos\CTG\CTG\bin\Debug\net6.0\CTG.deps.json
+C:\Users\ajwpc\source\repos\CTG\CTG\bin\Debug\net6.0\CTG.dll
+C:\Users\ajwpc\source\repos\CTG\CTG\bin\Debug\net6.0\CTG.pdb
+C:\Users\ajwpc\source\repos\CTG\CTG\obj\Debug\net6.0\CTG.csproj.AssemblyReference.cache
+C:\Users\ajwpc\source\repos\CTG\CTG\obj\Debug\net6.0\CTG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajwpc\source\repos\CTG\CTG\obj\Debug\net6.0\CTG.AssemblyInfoInputs.cache
+C:\Users\ajwpc\source\repos\CTG\CTG\obj\Debug\net6.0\CTG.AssemblyInfo.cs
+C:\Users\ajwpc\source\repos\CTG\CTG\obj\Debug\net6.0\CTG.csproj.CoreCompileInputs.cache
+C:\Users\ajwpc\source\repos\CTG\CTG\obj\Debug\net6.0\CTG.dll
+C:\Users\ajwpc\source\repos\CTG\CTG\obj\Debug\net6.0\refint\CTG.dll
+C:\Users\ajwpc\source\repos\CTG\CTG\obj\Debug\net6.0\CTG.pdb
+C:\Users\ajwpc\source\repos\CTG\CTG\obj\Debug\net6.0\ref\CTG.dll
