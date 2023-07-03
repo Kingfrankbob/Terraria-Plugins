@@ -1,0 +1,13 @@
+C:\Users\ajwpc\source\repos\HideNSeek\HideNSeek\bin\Debug\net6.0\HttpServer.dll
+C:\Users\ajwpc\source\repos\HideNSeek\HideNSeek\bin\Debug\net6.0\HideNSeek.deps.json
+C:\Users\ajwpc\source\repos\HideNSeek\HideNSeek\bin\Debug\net6.0\HideNSeek.dll
+C:\Users\ajwpc\source\repos\HideNSeek\HideNSeek\bin\Debug\net6.0\HideNSeek.pdb
+C:\Users\ajwpc\source\repos\HideNSeek\HideNSeek\obj\Debug\net6.0\HideNSeek.csproj.AssemblyReference.cache
+C:\Users\ajwpc\source\repos\HideNSeek\HideNSeek\obj\Debug\net6.0\HideNSeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajwpc\source\repos\HideNSeek\HideNSeek\obj\Debug\net6.0\HideNSeek.AssemblyInfoInputs.cache
+C:\Users\ajwpc\source\repos\HideNSeek\HideNSeek\obj\Debug\net6.0\HideNSeek.AssemblyInfo.cs
+C:\Users\ajwpc\source\repos\HideNSeek\HideNSeek\obj\Debug\net6.0\HideNSeek.csproj.CoreCompileInputs.cache
+C:\Users\ajwpc\source\repos\HideNSeek\HideNSeek\obj\Debug\net6.0\HideNSeek.dll
+C:\Users\ajwpc\source\repos\HideNSeek\HideNSeek\obj\Debug\net6.0\refint\HideNSeek.dll
+C:\Users\ajwpc\source\repos\HideNSeek\HideNSeek\obj\Debug\net6.0\HideNSeek.pdb
+C:\Users\ajwpc\source\repos\HideNSeek\HideNSeek\obj\Debug\net6.0\ref\HideNSeek.dll
