@@ -1,6 +1,9 @@
 # Terraria-Plugins
-## CTG
-I submitted it, and they had some recommendations, and modifed those accordingly!
+## Capture The Gem
+Some notes to think of
+- I used PascalCase for everything except local functions because I know those are camelCase.
+- I did my best to seperate everything into classes, and keep them doing what they are suppose to be doing
+- Im hoping that each function serves one or two purposes max!
 ## HideNSeek
 I just made the code look neater!
 ## Test Plugin
