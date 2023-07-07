@@ -1,0 +1,13 @@
+C:\Users\ajwpc\source\repos\CaptureTheGem\CaptureTheGem\bin\Debug\net6.0\HttpServer.dll
+C:\Users\ajwpc\source\repos\CaptureTheGem\CaptureTheGem\bin\Debug\net6.0\CaptureTheGem.deps.json
+C:\Users\ajwpc\source\repos\CaptureTheGem\CaptureTheGem\bin\Debug\net6.0\CaptureTheGem.dll
+C:\Users\ajwpc\source\repos\CaptureTheGem\CaptureTheGem\bin\Debug\net6.0\CaptureTheGem.pdb
+C:\Users\ajwpc\source\repos\CaptureTheGem\CaptureTheGem\obj\Debug\net6.0\CaptureTheGem.csproj.AssemblyReference.cache
+C:\Users\ajwpc\source\repos\CaptureTheGem\CaptureTheGem\obj\Debug\net6.0\CaptureTheGem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajwpc\source\repos\CaptureTheGem\CaptureTheGem\obj\Debug\net6.0\CaptureTheGem.AssemblyInfoInputs.cache
+C:\Users\ajwpc\source\repos\CaptureTheGem\CaptureTheGem\obj\Debug\net6.0\CaptureTheGem.AssemblyInfo.cs
+C:\Users\ajwpc\source\repos\CaptureTheGem\CaptureTheGem\obj\Debug\net6.0\CaptureTheGem.csproj.CoreCompileInputs.cache
+C:\Users\ajwpc\source\repos\CaptureTheGem\CaptureTheGem\obj\Debug\net6.0\CaptureTheGem.dll
+C:\Users\ajwpc\source\repos\CaptureTheGem\CaptureTheGem\obj\Debug\net6.0\refint\CaptureTheGem.dll
+C:\Users\ajwpc\source\repos\CaptureTheGem\CaptureTheGem\obj\Debug\net6.0\CaptureTheGem.pdb
+C:\Users\ajwpc\source\repos\CaptureTheGem\CaptureTheGem\obj\Debug\net6.0\ref\CaptureTheGem.dll
